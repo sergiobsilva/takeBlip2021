@@ -1,1 +1,1 @@
-# takeBlip2021
+# meetup-curriculo-portfolio
